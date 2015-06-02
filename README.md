@@ -4,7 +4,7 @@ B3P GIS Suite - een software suite voor het laden, configureren en publiceren va
 zie voor handleidingen de volgende link: http://source.b3p.nl/docs/4.2/
 
 B3P GIS Suite bestaat uit de volgende projecten:
-* B3pCatalog (private, binnenkort open)
+* B3pCatalog 
 * B3pGisSuiteMvnRepo (private omdat hier niet distribueerbare libs in staan, zoals van oracle en esri)
 * b3p-combineImageTool
 * b3p-commons-core
@@ -25,12 +25,12 @@ B3P GIS Suite bestaat uit de volgende projecten:
 * b3p-suf2-reader
 * b3p-zoeker
 * commons-mail-b3p
-* datastorelinker  (private, binnenkort open)
+* datastorelinker 
 * datastorelinkerEntities
-* gisviewer (private, binnenkort open)
-* gisviewerConfig  (private, binnenkort open)
+* gisviewer
+* gisviewerConfig 
 * jump-b3p
-* kaartenbalie  (private, binnenkort open)
+* kaartenbalie 
 * local-access-applet
 * milton-b3p
 * securityfilter-b3p
