@@ -34,3 +34,4 @@ B3P GIS Suite bestaat uit de volgende projecten:
 * local-access-applet
 * milton-b3p
 * securityfilter-b3p
+* servletTestAPI
