@@ -28,3 +28,4 @@ git@github.com:B3Partners/kaartenbalie.git
 git@github.com:B3Partners/local-access-applet.git
 git@github.com:B3Partners/milton-b3p.git
 git@github.com:B3Partners/securityfilter-b3p.git
+git@github.com:B3Partners/servletTestAPI.git
