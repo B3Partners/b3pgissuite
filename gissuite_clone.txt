@@ -29,3 +29,34 @@ git clone git@github.com:B3Partners/local-access-applet.git
 git clone git@github.com:B3Partners/milton-b3p.git
 git clone git@github.com:B3Partners/securityfilter-b3p.git
 git clone git@github.com:B3Partners/servletTestAPI.git
+
+cd securityfilter-b3p && mvn install && cd ..
+cd b3p-commons-core && mvn install && cd ..
+cd milton-b3p && mvn install && cd ..
+cd commons-mail-b3p && mvn install && cd ..
+cd jump-b3p && mvn install && cd ..
+cd b3p-commons-gis && mvn install && cd ..
+cd b3p-commons-hibernate && mvn install && cd ..
+cd b3p-combineImageTool && mvn install && cd ..
+cd b3p-commons-csw && mvn install && cd ..
+cd b3p-gt2-csv && mvn install && cd ..
+cd b3p-gt2-dxf && mvn install && cd ..
+cd b3p-gt2-msaccess && mvn install && cd ..
+cd b3p-gt2-ogr && mvn install && cd ..
+cd b3p-gt2-sdl && mvn install && cd ..
+cd b3p-gt2-suf2 && mvn install && cd ..
+cd b3p-mapfile && mvn install && cd ..
+cd b3p-openbare-ruimte && mvn install && cd ..
+cd b3p-suf2-reader && mvn install && cd ..
+cd b3p-zoeker && mvn install && cd ..
+cd local-access-applet && mvn install && cd ..
+cd b3p-datastorelinker && mvn install && cd ..
+cd b3p-gisviewer && mvn install && cd ..
+cd b3p-gisviewerConfig && mvn install && cd ..
+cd servletTestAPI && mvn install && cd ..
+cd datastorelinker && mvn install && cd ..
+cd datastorelinkerEntities && mvn install && cd ..
+cd B3pCatalog && mvn install && cd ..
+cd gisviewer && mvn install && cd ..
+cd gisviewerConfig && mvn install && cd ..
+cd kaartenbalie && mvn install && cd ..
