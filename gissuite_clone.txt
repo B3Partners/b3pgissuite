@@ -54,8 +54,8 @@ cd b3p-datastorelinker && mvn install && cd ..
 cd b3p-gisviewer && mvn install && cd ..
 cd b3p-gisviewerConfig && mvn install && cd ..
 cd servletTestAPI && mvn install && cd ..
-cd datastorelinker && mvn install && cd ..
 cd datastorelinkerEntities && mvn install && cd ..
+cd datastorelinker && mvn install && cd ..
 cd B3pCatalog && mvn install && cd ..
 cd gisviewer && mvn install && cd ..
 cd gisviewerConfig && mvn install && cd ..
