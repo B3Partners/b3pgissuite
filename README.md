@@ -1,3 +1,9 @@
+Archived
+========
+This application is no longer used, the repository is unmaintained and therefore archived. 
+**Note** that it may use some vulnerable components which could pose a security risk.
+
+
 # b3pgissuite
 B3P GIS Suite - een software suite voor het laden, configureren en publiceren van gisviewers
 
